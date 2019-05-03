@@ -1,3 +1,4 @@
+#daily coding-prbm2
 def avg_asc(a):
     length=len(a)
     total = 0
